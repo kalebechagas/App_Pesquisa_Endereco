@@ -15,6 +15,7 @@ Para executar o site, siga estas etapas:
 
 ## Tecnologias utilizadas
 - HTML
+- JavaScript
 
 ## Contribuindo com o desenvolvimento do site
 
